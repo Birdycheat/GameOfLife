@@ -19,6 +19,6 @@ In game :
   - P : PAUSE
   - When PAUSE mod :
     * ENTER & other specific keys : pass 1 frame in the game
-    * CLIC : place/delete pixel
+    * CLIC : place/delete pixel (DOUBLE CLIC to enter in editing mod)
   - ESC : freeze (before leave with a mouse clic)
   
