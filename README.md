@@ -16,9 +16,9 @@ Make sure you've SDL2 package : "apt install libsdl2-dev" if you haven't got it.
 COMMANDS
 **************
 In game :
-  p : PAUSE
-  When PAUSE mod :
-    ENTER & other specific keys : pass 1 frame in the game
-    CLIC : place/delete pixel
-  ESC : freeze (before leave with a mouse clic)
+  - p : PAUSE
+  - When PAUSE mod :
+    * ENTER & other specific keys : pass 1 frame in the game
+    * CLIC : place/delete pixel
+  - ESC : freeze (before leave with a mouse clic)
   
