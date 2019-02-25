@@ -1,0 +1,11 @@
+#define TIMECST 500000
+#define CSTH 1000
+#define CSTW 1000
+#define CSTC1 2211
+#define CSTC2 999
+#define CSTC3 777
+#define CSTC4 1110
+#define CSTLUM1 100
+#define CSTLUM2 100
+#define CSTLUM3 100
+#define CSTLUM4 100
